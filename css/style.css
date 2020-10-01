@@ -37,3 +37,18 @@ nav li:nth-child(4) {
     order: 2;
     margin-left: auto;
 }
+
+/* BLOG */
+
+section {
+    text-align: center;
+    background-color: brown;
+    padding: 2rem;
+}
+
+section p {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    color: white;
+}
